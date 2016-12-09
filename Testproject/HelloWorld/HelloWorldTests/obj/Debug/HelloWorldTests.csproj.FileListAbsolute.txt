@@ -1,0 +1,9 @@
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Users\dirkp\Source\Workspaces\Arbeitsbereich\SCHOOL\Testproject\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{03503156-BCAE-4177-9AB9-C7460F7DBD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTests", "HelloWorldTests\HelloWorldTests.csproj", "{0BFC4EE9-6353-4208-893A-99B2700BAA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03503156-BCAE-4177-9AB9-C7460F7DBD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03503156-BCAE-4177-9AB9-C7460F7DBD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03503156-BCAE-4177-9AB9-C7460F7DBD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03503156-BCAE-4177-9AB9-C7460F7DBD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFC4EE9-6353-4208-893A-99B2700BAA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFC4EE9-6353-4208-893A-99B2700BAA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFC4EE9-6353-4208-893A-99B2700BAA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFC4EE9-6353-4208-893A-99B2700BAA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://surfbkdp:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelloWorld\\HelloWorld.csproj
+		SccProjectName1 = HelloWorld
+		SccLocalPath1 = HelloWorld
+		SccProjectUniqueName2 = HelloWorldTests\\HelloWorldTests.csproj
+		SccProjectName2 = HelloWorldTests
+		SccLocalPath2 = HelloWorldTests
+	EndGlobalSection
+EndGlobal
